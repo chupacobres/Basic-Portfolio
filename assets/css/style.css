@@ -65,3 +65,13 @@ body {
    padding-top: 10px;
    padding-left: 10px;
 }
+.textbox-portfolio{
+   background-color: whitesmoke;
+   margin: 45px 130px 00px 130px;
+}
+.header-portfolio{
+   color: #4aa; 
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   padding-top: 10px;
+   padding-left: 5px;
+}
