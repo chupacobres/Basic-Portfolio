@@ -67,7 +67,8 @@ body {
 }
 .textbox-portfolio{
    background-color: whitesmoke;
-   margin: 45px 130px 00px 130px;
+   margin: 45px 130px 14px 130px;
+   height: 370px;
 }
 .header-portfolio{
    color: #4aa; 
