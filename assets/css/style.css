@@ -28,20 +28,23 @@ body {
 }
 .textbox{
    background-color: whitesmoke;
-   margin: 45px 130px 00px 130px;
+   margin: 73px 130px 00px 130px;
+   width: 960px;
 }
 .copyright{
    text-align: center;
    background-color: rgb(199, 197, 197);
    margin: 70px;
-   margin: 0px 130px 0px 130px;
+   margin: 0px 304px 0px 130px;
+   width: 960px;
 }
 
 .greenline{
    background-color: #4aaaa5;
    height: 2px;
    padding: 1px;
-   margin: 0px 130px 0px 130px;
+   margin: 0px 302px 0px 130px;
+   width: 960px;
 }
 .image{
    float: left;
@@ -52,14 +55,17 @@ body {
 }
 .about{
    float: right;
-}
+   }
+
 .portfolio{
    float: right;
    margin-left: 10px;
    margin-right: 10px;
+   color:black;
 }
 .contact{
    float:right;
+   color:black;
 }
 .header{
    padding-top: 10px;
@@ -67,8 +73,8 @@ body {
 }
 .textbox-portfolio{
    background-color: whitesmoke;
-   margin: 45px 130px 14px 130px;
-   height: 370px;
+   margin: 73px 130px 14px 130px;
+   width: 960px;
 }
 .header-portfolio{
    color: #4aa; 
@@ -76,3 +82,11 @@ body {
    padding-top: 10px;
    padding-left: 5px;
 }
+a{
+   color: black;
+}
+a:hover{
+   background-color: #4aaaa5
+}
+
+
